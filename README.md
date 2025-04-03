@@ -1,5 +1,3 @@
-Thank you for providing the database structure and the SQL dump for the "Travel Form" project. I've incorporated the details from the provided dump into the README file to give users a clearer understanding of the database schema. Here is the updated README:
-
 # Travel Form Using PHP Technology
 
 ## Overview
